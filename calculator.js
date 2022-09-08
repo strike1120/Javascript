@@ -12,6 +12,8 @@ const calculator = {
 
 } ;
 
-console.log(calculator.square(2, 3));
+document.writeln(calculator.square(2, 3));
+document.writeln(calculator.add(2, 3));
+document.writeln(calculator.minus(2, 3));
 
 
